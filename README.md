@@ -1,1 +1,1 @@
-I’ve built the key visuals (bar, line, pie), applied conditional formatting, added KPI cards, configured interactive slicers and edited their interactions—delivering a fully interactive, insights‑driven Power BI dashboard ready for deeper analysis and action.# WorkSheet
+
